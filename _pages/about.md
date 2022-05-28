@@ -2,15 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: PhD Student, Harvard University
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>PhD Student</p>
-    <p>Harvard University</p>
-    <p>Kennedy School of Government</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
