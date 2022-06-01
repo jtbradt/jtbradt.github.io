@@ -24,6 +24,11 @@ nav_order: 2
 -->
 
 <div class="myDiv">
+<h2> In Progress </h2>
+{% bibliography -f papers -q @*[type=In Progress]* %}
+</div>
+
+<div class="myDiv">
 <h2> Publications </h2>
 {% bibliography -f papers -q @*[type=Publication]* %}
 </div>
@@ -31,11 +36,6 @@ nav_order: 2
 <div class="myDiv">
 <h2> Working Papers </h2>
 {% bibliography -f papers -q @*[type=Working Papers]* %}
-</div>
-
-<div class="myDiv">
-<h2> In Progress </h2>
-{% bibliography -f papers -q @*[type=In Progress]* %}
 </div>
 
 </div>
