@@ -3,39 +3,16 @@ layout: page
 permalink: /research/
 title: Research
 description: 
-years:
+years:[In Progress, 2021, 2020, 2019]
 nav: true
-nav_order: 2
+nav_order: 1
 ---
-<style>
-.myDiv {
-    margin: 30px 0px 30px 0px;
-}
-</style>
 
+<div class="Research">
 
-<div class="publications">
-
-<!--
-{% for y in page.years %}
+{%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}} & abbr={{"Working Paper"}}]* %}
+  {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
--->
-
-<div class="myDiv">
-<h2> In Progress </h2>
-{% bibliography -f papers -q @*[type=In Progress]* %}
-</div>
-
-<div class="myDiv">
-<h2> Publications </h2>
-{% bibliography -f papers -q @*[type=Publication]* %}
-</div>
-
-<div class="myDiv">
-<h2> Working Papers </h2>
-{% bibliography -f papers -q @*[type=Working Papers]* %}
-</div>
 
 </div>
