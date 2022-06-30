@@ -83,7 +83,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 blog_name: Blog # blog_name will be displayed in your blog page
 blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: A collection of infrequent posts with tips, tools, and thoughts of questionable value
+blog_description: Infrequent posts with tips, tools, and thoughts
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -115,10 +115,9 @@ news_limit: 5
 markdown: kramdown
 highlighter: rouge
 highlight_theme_light: github  # https://github.com/jwarby/jekyll-pygments-themes
-highlight_theme_dark: github  # https://github.com/jwarby/jekyll-pygments-themes
+highlight_theme_dark: native  # https://github.com/jwarby/jekyll-pygments-themes
 kramdown:
   input: GFM
-  syntax_highlighter: rouge
   syntax_highlighter_opts:
     css_class: 'highlight'
     span:
