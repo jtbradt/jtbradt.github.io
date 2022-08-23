@@ -22,6 +22,9 @@ nav_order: 3
     * [International Climate Policy](https://jacobbradt.com/assets/pdf/teaching/econ1661/econ1661_spring2022_section12.pdf)
 
 
+***
+
+
 <strong>American Economic Policy</strong> ([Fall 2020](https://jacobbradt.com/assets/pdf/teaching/econ1420/harvard_econ1420_syllabus_20.pdf), [Fall 2021](https://jacobbradt.com/assets/pdf/teaching/econ1420/harvard_econ1420_syllabus_21.pdf))
 * Role(s): Teaching Fellow
 * Harvard Economics Department (Econ 1420), Harvard Kennedy School (API-127)
@@ -29,9 +32,15 @@ nav_order: 3
     * Harvard University Certificate of Distinction in Teaching (Fall 2020, Fall 2021)
 
 
+***
+
+
 <strong>Public Policy, Health Policy, and Business Administration PhD Math Camp Instructor</strong> (August 2022)
 * [Notes](https://jacobbradt.com/assets/pdf/teaching/math_camp/MathCamp_Part2_LectureNotes_2022.pdf)
 * Slides: [Constrained Optimization](https://jacobbradt.com/assets/pdf/teaching/math_camp/Day1_Constrained_Optimization.pdf); [Comparative Statics and Linear Algebra](https://jacobbradt.com/assets/pdf/teaching/math_camp/Day2_Comparative_Statics_Linear_Algebra.pdf); [Probability and Statistics](https://jacobbradt.com/assets/pdf/teaching/math_camp/Day3_Probability_and_Statistics.pdf)
+
+
+***
 
 
 <strong>Climate Change Policy: Economics and Politics</strong> (October 2020, April 2021, September 2021)
