@@ -11,7 +11,6 @@ nav_order: 3
 * Harvard Economics Department (Econ 1661), Harvard Kennedy School (API-135)
 * Evaluations: 4.8/5.0 (Spring 2021), 4.8/5.0 (Spring 2022)
 	* Harvard University Certificate of Distinction in Teaching (Spring 2021, Spring 2022)
-	* Comments: 
 * Section slides:
 	* [Cost and Benefit Concepts and the Social Cost of Carbon](https://jacobbradt.com/assets/pdf/teaching/econ1661/econ1661_spring2021_section3.pdf)
 	* [Advanced Pollution Control: Uncertainty](https://jacobbradt.com/assets/pdf/teaching/econ1661/Econ 1661 Spring 2022 Section 6 Uncertainty.pdf)
@@ -22,7 +21,7 @@ nav_order: 3
 	* [International Climate Policy](https://jacobbradt.com/assets/pdf/teaching/econ1661/econ1661_spring2022_section12.pdf)
 
 
-<strong>American Economic Policy</strong> ([Fall 2020](https://jacobbradt.com/assets/pdf/teaching/harvard_econ1420_syllabus_20.pdf), [Fall 2021](https://jacobbradt.com/assets/pdf/teaching/harvard_econ1420_syllabus_21.pdf))
+<strong>American Economic Policy</strong> ([Fall 2020](https://jacobbradt.com/assets/pdf/teaching/econ1420/harvard_econ1420_syllabus_20.pdf), [Fall 2021](https://jacobbradt.com/assets/pdf/teaching/econ1420/harvard_econ1420_syllabus_21.pdf))
 * Harvard Economics Department (Econ 1420), Harvard Kennedy School (API-127)
 * Evaluations: 4.9/5.0 (Fall 2020), 4.7/5.0 (Fall 2021)
 	* Harvard University Certificate of Distinction in Teaching (Fall 2020, Fall 2021)
