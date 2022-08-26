@@ -17,7 +17,7 @@ nav_order: 3
     * [Advanced Pollution Control: Uncertainty](https://jacobbradt.com/assets/pdf/teaching/econ1661/econ1661_spring2022_section6.pdf)
     * [The Acid Rain Program: Background, Impacts, and Lessons for Climate Change Policy](https://jacobbradt.com/assets/pdf/teaching/econ1661/econ1661_spring2022_section8.pdf)
     * [National and Regional Carbon-Pricing Instruments](https://jacobbradt.com/assets/pdf/teaching/econ1661/econ1661_spring2022_section9.pdf)
-    * [Carbon-Pricing in Practice:Lessons from International Experience](https://jacobbradt.com/assets/pdf/teaching/econ1661/econ1661_spring2022_section10.pdf)
+    * [Carbon-Pricing in Practice: Lessons from International Experience](https://jacobbradt.com/assets/pdf/teaching/econ1661/econ1661_spring2022_section10.pdf)
     * [Climate Policy Interactions + Energy Efficiency Paradox](https://jacobbradt.com/assets/pdf/teaching/econ1661/econ1661_spring2022_section11.pdf)
     * [International Climate Policy](https://jacobbradt.com/assets/pdf/teaching/econ1661/econ1661_spring2022_section12.pdf)
 
