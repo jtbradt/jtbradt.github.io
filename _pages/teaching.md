@@ -12,14 +12,6 @@ nav_order: 3
 * Harvard Economics Department (Econ 1661), Harvard Kennedy School (API-135)
 * Evaluations: [4.8/5.0 (Spring 2021), 4.8/5.0 (Spring 2022)](https://jacobbradt.com/assets/pdf/teaching/econ1661/Econ1661_Evaluations.pdf)
     * Harvard University Certificate of Distinction in Teaching (Spring 2021, Spring 2022)
-* Section slides:
-    * [Cost and Benefit Concepts and the Social Cost of Carbon](https://jacobbradt.com/assets/pdf/teaching/econ1661/econ1661_spring2021_section3.pdf)
-    * [Advanced Pollution Control: Uncertainty](https://jacobbradt.com/assets/pdf/teaching/econ1661/econ1661_spring2022_section6.pdf)
-    * [The Acid Rain Program: Background, Impacts, and Lessons for Climate Change Policy](https://jacobbradt.com/assets/pdf/teaching/econ1661/econ1661_spring2022_section8.pdf)
-    * [National and Regional Carbon-Pricing Instruments](https://jacobbradt.com/assets/pdf/teaching/econ1661/econ1661_spring2022_section9.pdf)
-    * [Carbon-Pricing in Practice: Lessons from International Experience](https://jacobbradt.com/assets/pdf/teaching/econ1661/econ1661_spring2022_section10.pdf)
-    * [Climate Policy Interactions + Energy Efficiency Paradox](https://jacobbradt.com/assets/pdf/teaching/econ1661/econ1661_spring2022_section11.pdf)
-    * [International Climate Policy](https://jacobbradt.com/assets/pdf/teaching/econ1661/econ1661_spring2022_section12.pdf)
 
 
 ***
