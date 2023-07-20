@@ -21,3 +21,9 @@ My research applies insights and methods from industrial organization and public
 Prior to starting my PhD, I worked at the U.S. Environmental Protection Agency and the White House Council on Environmental Quality and provided support on land conservation policy to various federal agencies for Booz Allen Hamilton. I graduated from Harvard College with a B.A. in Environmental Science and Public Policy and a Secondary in Economics.
 
 I will be on the academic job market during AY 2023-2024.
+
+**References**
+-Professor [Joseph E. Aldy](mailto:joseph_aldy@hks.harvard.edu)
+-Professor [Myrto Kalouptsidi](mailto:myrto@g.harvard.edu)
+-Professor [Ariel Pakes](mailto:apakes@fas.harvard.edu)
+-Professor [Robin S. Lee](mailto:robinlee@fas.harvard.edu)
