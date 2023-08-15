@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>124 Mt. Auburn St., Suite 175S</p>
-    <p>Cambridge, MA 02139</p>
+    <p>Cambridge, MA 02138</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
