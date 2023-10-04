@@ -723,3 +723,21 @@ div.popup{
   cursor:pointer;
   border:none;
 }
+
+// Hyperref:
+a:link {
+  color: var(--global-theme-color);
+  text-decoration: none;
+}  
+a:visited {
+  color: var(--global-theme-color);
+  text-decoration: none;
+}  
+a:hover {
+  color: var(--global-theme-color);
+  text-decoration: none;
+}  
+a:active {
+  color:var(--global-theme-color);
+  text-decoration: none;
+}  
