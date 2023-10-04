@@ -28,6 +28,7 @@ I will be on the job market during AY 2023-2024.
 * Professor Ariel Pakes \[[apakes@fas.harvard.edu](mailto:apakes@fas.harvard.edu)\]
 * Professor Robin S. Lee \[[robinlee@fas.harvard.edu](mailto:robinlee@fas.harvard.edu)\]
 
+<html>
 <script>
 function button(id) {
   var x = document.getElementById(id);
@@ -58,4 +59,6 @@ function button(id) {
 </div>
 <div class="popup" id="abs1" style="display: block;">Consumer subsidies are a common policy tool for supporting the adoption of clean, energy-efficient technologies. In addition to increasing take-up of new technologies, policymakers justify these programs as a means of stimulating infant industries, arguing that the presence of learning-by-doing and inter-firm knowledge spillovers incentivize entry. However, potential knowledge transfers reduce the incentives for firms to expand output and reduce costs by making cost reductions---in part---a public good. To evaluate this tradeoff, I estimate a dynamic structural model of the market for solar panel installations in California that endogenizes firms’ entry and exit decisions and allows for learning-by-doing with incomplete spillovers. I estimate that a 1\% increase in a firm’s experience as measured by cumulative production leads to a 0.7\% reduction in installation-specific costs and that learning spills over across firms. Counterfactual analysis reveals that existing consumer subsidy programs increased installer entry by 9\%, indicating that industry cost reductions outweigh the decrease in firms' incentives to reduce costs by expanding output. While consumer subsidies may be effective at increasing industry size, standard industrial policies such as entry subsidies likely provide greater welfare gains.</div>
 <br>
+
+</html>
   
