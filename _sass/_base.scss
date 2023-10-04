@@ -706,7 +706,7 @@ html.transition *:after {
 
 // Popup for homepage WPs
 div.buttonbar{
-  font-weight: normal;
+  font-weight: lighter;
   margin-bottom:15px;
 }
 div.popup{
@@ -721,7 +721,7 @@ div.popup{
   background-color:var(--global-bg-color);
   padding:0px;
   color:var(--global-theme-color);
-  font-weight: normal;
+  font-weight: lighter;
   cursor:pointer;
   border:none;
 }
@@ -729,20 +729,21 @@ div.popup{
 // Hyperref:
 a:link {
   color: var(--global-theme-color);
-  font-weight: normal;
+  font-weight: lighter;
   text-decoration: none;
 }  
 a:visited {
   color: var(--global-theme-color);
   text-decoration: none;
-  font-weight: normal;
+  font-weight: lighter;
 }  
 a:hover {
   color: var(--global-theme-color);
   text-decoration: none;
-  font-weight: normal;
+  font-weight: lighter;
 }  
 a:active {
   color:var(--global-theme-color);
   text-decoration: none;
+  font-weight: lighter;
 }  
