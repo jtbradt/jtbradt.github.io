@@ -713,12 +713,12 @@ div.popup{
   margin-left:0px;
   border-left:1px solid #bbbbbb;
   padding-left:15px;
-  color:#666;
+  color:var(--global-text-color);
 }
 .button{
   background-color:var(--global-bg-color);
   padding:0px;
-  color:--global-theme-color;
+  color:var(--global-theme-color);
   cursor:pointer;
   border:none;
 }
