@@ -706,7 +706,6 @@ html.transition *:after {
 
 // Popup for homepage WPs
 div.buttonbar{
-  font-weight: normal;
   margin-bottom:15px;
 }
 div.popup{
@@ -720,7 +719,6 @@ div.popup{
 .button{
   background-color:var(--global-bg-color);
   padding:0px;
-  font-weight: normal;
   color:var(--global-theme-color);
   cursor:pointer;
   border:none;

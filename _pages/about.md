@@ -20,18 +20,18 @@ I graduated from Harvard College with a B.A. in Environmental Science and Public
 
 I will be on the job market during AY 2023-2024.
 
-<strong><font size = "5">References</font></strong>
+<span font-size = 5em>**References**</span>
 * Professor Joseph E. Aldy \[[joseph_aldy@hks.harvard.edu](mailto:joseph_aldy@hks.harvard.edu)\]
 * Professor Myrto Kalouptsidi \[[myrto@g.harvard.edu](mailto:myrto@g.harvard.edu)\]
 * Professor Ariel Pakes \[[apakes@fas.harvard.edu](mailto:apakes@fas.harvard.edu)\]
 * Professor Robin S. Lee \[[robinlee@fas.harvard.edu](mailto:robinlee@fas.harvard.edu)\]
 
-<strong><font size = "5">Selected working papers</font></strong>
+<span font-size = 5em>**Selected working papers**</span>
 <p style="margin-bottom:0"> A Policy by Any Other Name: Unconventional Industrial Policy in the US Residential Solar Industry <strong>(JMP)</strong></p>
 <div class="buttonbar">[ <button class="button" onclick="button(&quot;abs1&quot;)">abstract</button> | <a href="/assets/pdf/papers/Bradt_JMP.pdf" target="_blank">paper</a>  ]</div>
 <div class="popup" id="abs1" style="display: none;">Consumer subsidies are a common policy tool for supporting the adoption of clean, energy-efficient technologies. In addition to increasing take-up of new technologies, policymakers justify these programs as a means of stimulating infant industries, arguing that the presence of learning-by-doing and inter-firm knowledge spillovers incentivize entry. However, potential knowledge transfers reduce the incentives for firms to expand output and reduce costs by making cost reductions---in part---a public good. To evaluate this tradeoff, I estimate a dynamic structural model of the market for solar panel installations in California that endogenizes firms’ entry and exit decisions and allows for learning-by-doing with incomplete spillovers. I estimate that a 1<span>&#37;</span> increase in a firm’s experience as measured by cumulative production leads to a 0.7<span>&#37;</span> reduction in installation-specific costs and that learning spills over across firms. Counterfactual analysis reveals that existing consumer subsidy programs increased installer entry by 9<span>&#37;</span>, indicating that industry cost reductions outweigh the decrease in firms' incentives to reduce costs by expanding output. While consumer subsidies may be effective at increasing industry size, standard industrial policies such as entry subsidies likely provide greater welfare gains.</div>
 
-<p style="margin-bottom:0">Private Benefits from Public Investment in Climate Adaptation and Resilience</p>
+<p style="margin-bottom:0">Private Benefits from Public Investment in Climate Adaptation and Resilience (w/ Joseph E. Aldy)</p>
 <div class="buttonbar">[ <button class="button" onclick="button(&quot;abs2&quot;)">abstract</button> | <a href="/assets/pdf/papers/BradtAldy_ClimateAdaptation_230714.pdf" target="_blank">paper</a>  | <a href="/assets/pdf/slides/bradt_aldy_nber_2023.pdf" target="_blank">slides</a> ]</div>
 <div class="popup" id="abs2" style="display: none;">Flood protection infrastructure investments, such as Army Corps of Engineer levees, can enhance resilience to flood risks amplified by climate change. We estimate the benefits from levees by exploiting repeat residential property transactions. In areas protected by levees, home values increase 3 percent. Levees impose adverse spillover flood risks to nearby areas that reduce affected home values by 1 percent. Capitalized benefits in protected areas are progressive, but adverse spillover impacts are regressive. While there is little variation across race in capitalized benefits at levee construction, racial sorting occurs post-construction. Capitalized residential property benefits do not exceed levee construction costs.</div>
 
