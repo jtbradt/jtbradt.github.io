@@ -703,3 +703,22 @@ html.transition *:after {
     }
   }
 }
+
+// Popup for homepage WPs
+div.buttonbar{
+  color:#666;
+}
+div.popup{
+  margin-top:15px;
+  margin-left:0px;
+  border-left:1px solid #bbbbbb;
+  padding-left:15px;
+  color:#666;
+}
+.button{
+  background-color:var(--global-bg-color);
+  padding:0px;
+  color:--global-theme-color;
+  cursor:pointer;
+  border:none;
+}
