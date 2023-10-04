@@ -22,8 +22,8 @@ Prior to starting my Ph.D., I worked at the U.S. Environmental Protection Agency
 
 I will be on the job market during AY 2023-2024.
 
-<strong>References</strong>
-* Professor Joseph E. Aldy ([joseph_aldy@hks.harvard.edu](mailto:joseph_aldy@hks.harvard.edu))
+<font size = "8">References</font>
+* Professor Joseph E. Aldy \[[joseph_aldy@hks.harvard.edu](mailto:joseph_aldy@hks.harvard.edu)\]
 * Professor Myrto Kalouptsidi ([myrto@g.harvard.edu](mailto:myrto@g.harvard.edu))
 * Professor Ariel Pakes ([apakes@fas.harvard.edu](mailto:apakes@fas.harvard.edu))
 * Professor Robin S. Lee ([robinlee@fas.harvard.edu](mailto:robinlee@fas.harvard.edu))
