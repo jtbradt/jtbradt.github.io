@@ -706,8 +706,9 @@ html.transition *:after {
 
 // Popup for homepage WPs
 div.buttonbar{
-  color:#666;
+  color:var(--global-theme-color);
   font-weight: normal;
+  margin-bottom: 1em;
 }
 div.popup{
   margin-top:15px;
