@@ -28,6 +28,25 @@ I will be on the job market during AY 2023-2024.
 * Professor Ariel Pakes \[[apakes@fas.harvard.edu](mailto:apakes@fas.harvard.edu)\]
 * Professor Robin S. Lee \[[robinlee@fas.harvard.edu](mailto:robinlee@fas.harvard.edu)\]
 
+<script>
+function button(id) {
+  var x = document.getElementById(id);
+  var ids = ["abs1", "abs2", "abs3", "abs4", "sum1", "sum2"];
+  for(var i = 0; i < ids.length; i++) {
+    var item = ids[i];
+    if (item != id) {
+      document.getElementById(item).style.display = "none";
+    } else {
+      if (x.style.display === "none") {
+        x.style.display = "block"
+      } else {
+        x.style.display = "none";
+      }
+    }
+  }	
+}
+</script> 
+
 <font size = "6">Working papers</font>
 <p style="margin-bottom:0">A Policy by Any Other Name: Unconventional Industrial Policy in the US Residential Solar Industry</p>
 <div class="buttonbar">
