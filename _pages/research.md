@@ -40,7 +40,7 @@ nav_order: 2
 <div class="popup" id="desc4" style="display: none;">A complementarity exists between electric vehicles (EV) and distributed solar photovoltaics (PV) due to the ability to use excess solar-generated electricity to charge vehicle batteries.  Generous subsidy programs incentivizing the adoption of each technology overlap in many jurisdictions.  We empirically document the complementarity between EV and PV adoption in California and examine the implications of this complementarity for optimal subsidy design.  Of particular concern is the potential for overlapping subsidies to increase the number of inframarginal households taking up each policy.  We plan to develop and estimate a structural model for EV and PV adoption and use this model to quantify welfare losses from sub-optimal policy targeting.</div>
 
 <strong><font size = "4">Publications</font></strong>
-<ol reversed class="bracket" style="padding-left:0px">
+<ol reversed class="bracket">
 <li><p style="margin-bottom:0">Voluntary Purchases and Adverse Selection in the Market for Flood Insurance (w/ Carolyn Kousky and Oliver Wing)</p>
 <p style="margin-bottom:0; color:#666"><em>Journal of Environmental Economics and Management, 2021</em></p>
 <div class="buttonbar">[ <button class="button" onclick="button(&quot;abs4&quot;)">abstract</button> | <a href="/assets/pdf/papers/bradt_kousky_wing_2021.pdf" target="_blank">paper</a> | <a href="https://doi.org/10.1016/j.jeem.2021.102515" target="_blank">html</a> | <a href="/assets/pdf/slides/Bradt_FSFworkshop_Feb21.pdf" target="_blank">slides</a> ]</div>
