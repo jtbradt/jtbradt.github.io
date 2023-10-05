@@ -748,14 +748,15 @@ a:active {
   font-weight: lighter;
 }  
 
-// Standard ordered list
-ol {
-  counter-reset: list;
-}
-ol > li {
+// Publications ordered list stuff
+ol.bracket>li {
   list-style: none;
+  position: relative;
 }
-ol > li:before {
-  content: "[" counter(list) "] ";
-  counter-increment: list;
+
+ol.bracket>li:before {
+  counter-increment: list -1;
+  content: "[" counter(list) "]  ";
+  position: absolute;
+  left: -2em;
 }
