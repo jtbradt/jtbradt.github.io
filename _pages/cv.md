@@ -7,3 +7,4 @@ description:
 nav: true
 redirect: https://www.jacobbradt.com/assets/pdf/cv/bradt_cv.pdf
 newtab: true
+---
