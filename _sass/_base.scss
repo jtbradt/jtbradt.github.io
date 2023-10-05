@@ -747,3 +747,15 @@ a:active {
   text-decoration: none;
   font-weight: lighter;
 }  
+
+// Standard ordered list
+ol {
+  counter-reset: list;
+}
+ol > li {
+  list-style: none;
+}
+ol > li:before {
+  content: "[" counter(list) "] ";
+  counter-increment: list;
+}
