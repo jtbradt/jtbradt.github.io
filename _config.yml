@@ -8,7 +8,8 @@ middle_name: T.
 last_name: Bradt
 email: jbradt@g.harvard.edu
 description: >
-footer_text: >
+footer_text: Please send comments or questions to <a href= "mailto:jbradt@g.harvard.edu">jbradt@g.harvard.edu</a> 
+
 keywords:   # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
