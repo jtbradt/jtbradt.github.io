@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate in Public Policy, Harvard University
+subtitle: PhD Candidate in Public Policy, Harvard University
 
 profile:
   align: right
@@ -14,9 +14,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My research applies insights and methods from industrial organization and public economics to the study of environmental, energy, and climate policy.  In my job market paper, I study the effect of consumer subsidies on market structure in the U.S. residential solar industry.
+My research applies insights and methods from industrial organization and public economics to the study of environmental, energy, and climate policy.  In my job market paper, I study the effect of consumer subsidies on market structure in California's residential solar industry.
 
-I graduated from Harvard College with a B.A. in Environmental Science and Public Policy and a Secondary in Economics.
+I have experience working on environmental policy 
+
+Prior to my PhD, I worked for the US Environmental Protection Agency, White House Council on Environmental Quality, and Booz Allen Hamilton.  I graduated from Harvard College with a BA in Environmental Science and Public Policy and a Secondary in Economics.
 
 I will be on the job market during AY 2023-2024.
 
@@ -29,7 +31,8 @@ I will be on the job market during AY 2023-2024.
 <strong><font size = "5">Selected working papers</font></strong>
 <p style="margin-bottom:0"> A Policy by Any Other Name: Unconventional Industrial Policy in the US Residential Solar Industry <strong>(JMP)</strong></p>
 <div class="buttonbar">[ <button class="button" onclick="button(&quot;abs1&quot;)">abstract</button> | paper available soon ]</div>
-<div class="popup" id="abs1" style="display: none;">Consumer subsidies are a common policy tool for supporting the adoption of clean, energy-efficient technologies. In addition to increasing take-up of new technologies, policymakers justify these programs as a means of stimulating infant industries, arguing that the presence of learning-by-doing and inter-firm knowledge spillovers incentivize entry. However, potential knowledge transfers reduce the incentives for firms to expand output and reduce costs by making cost reductions---in part---a public good. To evaluate this tradeoff, I estimate a dynamic structural model of the market for solar panel installations in California that endogenizes firms’ entry and exit decisions and allows for learning-by-doing with incomplete spillovers. I estimate that a 1<span>&#37;</span> increase in a firm’s experience as measured by cumulative production leads to a 0.7<span>&#37;</span> reduction in installation-specific costs and that learning spills over across firms. Counterfactual analysis reveals that existing consumer subsidy programs increased installer entry by 9<span>&#37;</span>, indicating that industry cost reductions outweigh the decrease in firms' incentives to reduce costs by expanding output. While consumer subsidies may be effective at increasing industry size, standard industrial policies such as entry subsidies likely provide greater welfare gains.</div>
+<div class="popup" id="abs1" style="display: none;">Consumer subsidies are a common policy tool for supporting the adoption of energy-efficient technologies. Policymakers often justify these programs as a means of stimulating infant industries, arguing that greater demand increases industry learning-by-doing, which in turn reduces costs for potential entrants. However, learning spillovers make experience-based cost reductions a public good, which reduces firms' incentives to expand output and lower costs. To evaluate this tradeoff, I estimate a dynamic structural model of the market for solar panel installations in California that endogenizes firms’ entry and exit decisions and allows for learning-by-doing with knowledge spillovers. I find that a 1<span>&#37;</span> increase in a firm’s experience as measured by cumulative production leads to a 0.7<span>&#37;</span> reduction in installation-specific costs and that learning spills over across firms. Counterfactual analysis reveals that a state-level consumer subsidy program increased installer entry by 9<span>&#37;</span>, indicating that industry cost reductions outweigh the decrease in firms' incentives to reduce costs by expanding output. While consumer subsidies may be effective at increasing industry size, I find that standard industrial policies such as entry subsidies provide greater welfare gains.</div>
+
 
 <p style="margin-bottom:0">Private Benefits from Public Investment in Climate Adaptation and Resilience (w/ Joseph E. Aldy)</p>
 <div class="buttonbar">[ <button class="button" onclick="button(&quot;abs2&quot;)">abstract</button> | <a href="/assets/pdf/papers/BradtAldy_ClimateAdaptation_230714.pdf" target="_blank">paper</a>  | <a href="/assets/pdf/slides/bradt_aldy_nber_2023.pdf" target="_blank">slides</a> ]</div>
@@ -37,7 +40,7 @@ I will be on the job market during AY 2023-2024.
 
 <p style="margin-bottom:0">Spatial Sorting, Agglomeration Economies, and Travel Cost Endogeneity in Recreation Demand Models</p>
 <div class="buttonbar">[ <button class="button" onclick="button(&quot;abs3&quot;)">abstract</button> | <a href="/assets/pdf/papers/Bradt_RecDemandEndogeneity_220610.pdf" target="_blank">paper</a> ]</div>
-<div class="popup" id="abs3" style="display: none;">Conventional recreation demand models assume that travel cost is exogenously determined. In reality, the costs individuals face when choosing which recreation site to visit are the result of a spatial sorting equilibrium, in which access to outdoor recreation sites and the environmental amenities to which they provide access may play a role. I explore the bias introduced by ignoring the potential for travel cost endogeneity in conventional recreation demand models and provide an instrumental variables approach to accounting for this endogeneity. I demonstrate the importance of accounting for the spatial non-uniformity of recreation sites and residences in a series of numerical simulations, finding that the instrumental variables approach ensures coverage of true parameter values. I implement the approach in a nationwide model of demand for overnight campground reservations as a function of price, water quality, and other observable site attributes. I find that not correcting for travel cost endogeneity via the instrumental variables approach nearly doubles estimates of consumers willingness-to-pay for improvements in water quality. This highlights the importance of relaxing the assumption of exogenous travel costs in real world applications.</div>
+<div class="popup" id="abs3" style="display: none;">Conventional recreation demand models assume that travel cost is exogenous.  In reality, the costs that individuals face when choosing a recreation site to visit are the result of a spatial sorting equilibrium, which may be influenced by access to outdoor recreation sites and their environmental amenities. I explore the bias introduced by ignoring the potential for recreation sites and their attributes to determine travel cost in conventional recreation demand models and provide an instrumental variables approach to accounting for this endogeneity problem.  I demonstrate the importance of accounting for the spatial non-uniformity of recreation sites and residences in a series of numerical simulations, finding that the instrumental variables approach ensures coverage of true parameter values.  I implement the approach in a nationwide model of demand for overnight campground reservations as a function of price, water quality, and other observable site attributes.  I find that not correcting for travel cost endogeneity via the instrumental variables approach nearly doubles estimates of consumers willingness-to-pay for improvements in water quality.  This highlights the importance of relaxing the assumption of exogenous travel costs in real world applications.</div>
 
 <script>
 function button(id) {
