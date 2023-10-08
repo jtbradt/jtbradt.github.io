@@ -14,9 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My research applies insights and methods from industrial organization and public economics to the study of environmental, energy, and climate policy.  In my job market paper, I study the effect of consumer subsidies on market structure in California's residential solar industry.
-
-I have experience working on environmental policy 
+My research applies insights and methods from industrial organization and public economics to the study of environmental, energy, and climate policy.  In my [job market paper](https://jacobbradt.com/assets/pdf/papers/Bradt_JMP.pdf), I study the effect of consumer subsidies on market structure in California's residential solar industry.
 
 Prior to my PhD, I worked for the US Environmental Protection Agency, White House Council on Environmental Quality, and Booz Allen Hamilton.  I graduated from Harvard College with a BA in Environmental Science and Public Policy and a Secondary in Economics.
 
@@ -30,7 +28,7 @@ I will be on the job market during AY 2023-2024.
 
 <strong><font size = "5">Selected working papers</font></strong>
 <p style="margin-bottom:0"> A Policy by Any Other Name: Unconventional Industrial Policy in the US Residential Solar Industry <strong>(JMP)</strong></p>
-<div class="buttonbar">[ <button class="button" onclick="button(&quot;abs1&quot;)">abstract</button> | paper available soon ]</div>
+<div class="buttonbar">[ <button class="button" onclick="button(&quot;abs1&quot;)">abstract</button> | <a href="/assets/pdf/papers/Bradt_JMP.pdf" target="_blank">paper</a> ]</div>
 <div class="popup" id="abs1" style="display: none;">Consumer subsidies are a common policy tool for supporting the adoption of energy-efficient technologies. Policymakers often justify these programs as a means of stimulating infant industries, arguing that greater demand increases industry learning-by-doing, which in turn reduces costs for potential entrants. However, learning spillovers make experience-based cost reductions a public good, which reduces firms' incentives to expand output and lower costs. To evaluate this tradeoff, I estimate a dynamic structural model of the market for solar panel installations in California that endogenizes firms’ entry and exit decisions and allows for learning-by-doing with knowledge spillovers. I find that a 1<span>&#37;</span> increase in a firm’s experience as measured by cumulative production leads to a 0.7<span>&#37;</span> reduction in installation-specific costs and that learning spills over across firms. Counterfactual analysis reveals that a state-level consumer subsidy program increased installer entry by 9<span>&#37;</span>, indicating that industry cost reductions outweigh the decrease in firms' incentives to reduce costs by expanding output. While consumer subsidies may be effective at increasing industry size, I find that standard industrial policies such as entry subsidies provide greater welfare gains.</div>
 
 
