@@ -775,7 +775,7 @@ ol.bracket>li:before {
   padding-bottom: 56.25%;
   /* 16:9 */
   padding-top: 25px;
-  height: 0;
+  height: 600px;
 }
 
 .blogIframe iframe {
@@ -783,6 +783,6 @@ ol.bracket>li:before {
   top: 0;
   left: 0;
   width: 100%;
-  height: 600px;
+  height: 100%;
 }
 
