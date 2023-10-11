@@ -20,6 +20,7 @@
     <script async type="text/json">{
       "title": "{{ page.title }}",
       "description": "{{ page.description }}",
+      "link": "{{ page.link }}",
       "published": "{{ page.date | date: '%B %-d, %Y' }}",
       "authors": [
         {% for author in page.authors -%}
@@ -63,6 +64,7 @@
       <d-title>
         <h1>{{ page.title }}</h1>
         <p>{{ page.description }}</p>
+        <p>{{ page.link }}</p>
       </d-title>
 
       <d-byline></d-byline>
