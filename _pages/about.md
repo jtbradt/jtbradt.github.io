@@ -18,7 +18,7 @@ My research applies insights and methods from industrial organization and public
 
 Prior to my PhD, I worked for the US Environmental Protection Agency, White House Council on Environmental Quality, and Booz Allen Hamilton.  I graduated from Harvard College with a BA in Environmental Science and Public Policy and a Secondary in Economics.
 
-I will be on the job market during AY 2023-2024.
+Beginning AY 2025-2024, I will join the faculty of the McCombs School of Business[https://www.mccombs.utexas.edu/] and Department of Economics[https://liberalarts.utexas.edu/economics/] (by courtesy) at the University of Texas at Austin as an Assistant Professor of Business, Government and Society.
 
 <strong><font size = "5">References</font></strong>
 * Professor Joseph E. Aldy \[[joseph_aldy@hks.harvard.edu](mailto:joseph_aldy@hks.harvard.edu)\]
