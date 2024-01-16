@@ -14,17 +14,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My research applies insights and methods from industrial organization and public economics to the study of environmental, energy, and climate policy.  In my [job market paper](https://jacobbradt.com/assets/pdf/papers/Bradt_JMP.pdf), I study the effect of consumer subsidies on market structure in California's residential solar industry.
-
-Prior to my PhD, I worked for the US Environmental Protection Agency, White House Council on Environmental Quality, and Booz Allen Hamilton.  I graduated from Harvard College with a BA in Environmental Science and Public Policy and a Secondary in Economics.
+My research applies insights and methods from industrial organization and public economics to the study of environmental, energy, and climate policy. I am particularly interested in studying the design of politically-feasible climate mitigation and adaptation policies.
 
 Beginning AY 2024-2025, I will join the faculty of the [McCombs School of Business](https://www.mccombs.utexas.edu/) at the University of Texas at Austin as an Assistant Professor of Business, Government and Society and (by courtesy) of Economics. 
-
-<strong><font size = "5">References</font></strong>
-* Professor Joseph E. Aldy \[[joseph_aldy@hks.harvard.edu](mailto:joseph_aldy@hks.harvard.edu)\]
-* Professor Myrto Kalouptsidi \[[myrto@g.harvard.edu](mailto:myrto@g.harvard.edu)\]
-* Professor Ariel Pakes \[[apakes@fas.harvard.edu](mailto:apakes@fas.harvard.edu)\]
-* Professor Robin S. Lee \[[robinlee@fas.harvard.edu](mailto:robinlee@fas.harvard.edu)\]
 
 <strong><font size = "5">Selected working papers</font></strong>
 <p style="margin-bottom:0"> A Policy by Any Other Name: Unconventional Industrial Policy in the US Residential Solar Industry <strong>(JMP)</strong></p>
