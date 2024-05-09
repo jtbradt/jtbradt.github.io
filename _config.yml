@@ -6,9 +6,9 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Jacob
 middle_name: T.
 last_name: Bradt
-email: jbradt@g.harvard.edu
+email: jacob.bradt@austin.utexas.edu
 description: >
-footer_text: Please send comments or questions to <a href= "mailto:jbradt@g.harvard.edu">jbradt@g.harvard.edu</a>.
+footer_text: Please send comments or questions to <a href= "mailto:jacob.bradt@austin.utexas.edu">jacob.bradt@austin.utexas.edu</a>.
 
 keywords:   # add your own keywords or leave empty
 
@@ -56,7 +56,7 @@ github_username: jtbradt # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: jtbradt # your Twitter handle
 linkedin_username: # your LinkedIn user name
-scholar_userid: e8REZLUAAAAJ # your Google Scholar ID
+scholar_userid: OmHkJf4AAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username

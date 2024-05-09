@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Candidate in Public Policy, Harvard University
+subtitle: Assistant Professor, McCombs School of Business
+The University of Texas at Austin
 
 profile:
   align: right
@@ -15,8 +16,6 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 My research applies insights and methods from industrial organization and public economics to the study of environmental, energy, and climate policy. I am particularly interested in studying the design of politically-feasible climate mitigation and adaptation policies.
-
-Beginning AY 2024-2025, I will join the faculty of the [McCombs School of Business](https://www.mccombs.utexas.edu/) at the University of Texas at Austin as an Assistant Professor of Business, Government and Society and (by courtesy) of Economics. 
 
 <strong><font size = "5">Selected working papers</font></strong>
 <p style="margin-bottom:0"> A Policy by Any Other Name: Unconventional Industrial Policy in the US Residential Solar Industry <strong>(JMP)</strong></p>
