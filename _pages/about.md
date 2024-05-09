@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor, McCombs School of Business\\The University of Texas at Austin
+subtitle: Assistant Professor, [McCombs School of Business](https://www.mccombs.utexas.edu/), The University of Texas at Austin
 
 profile:
   align: right
@@ -14,8 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-
-I am an Assistant Professor of Business, Government and Society and (by courtesy) of Economics at the University of Texas at Austin.  My research applies insights and methods from industrial organization and public economics to the study of environmental, energy, and climate policy. 
+I am an Assistant Professor of Business, Government and Society and (by courtesy) of Economics at The University of Texas at Austin.  My research applies insights and methods from industrial organization and public economics to the study of environmental, energy, and climate policy. 
 
 <strong><font size = "5">Selected working papers</font></strong>
 <p style="margin-bottom:0"> A Policy by Any Other Name: Unconventional Industrial Policy in the US Residential Solar Industry <strong>(JMP)</strong></p>
