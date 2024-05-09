@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor, [McCombs School of Business](https://www.mccombs.utexas.edu/), The University of Texas at Austin
+subtitle: Assistant Professor, <a href='https://www.mccombs.utexas.edu/'>McCombs School of Business</a>, The University of Texas at Austin
 
 profile:
   align: right
