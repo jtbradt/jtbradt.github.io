@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong><<font color = "#828282">Assistant Professor<br>McCombs School of Business<br>The University of Texas at Austin</font></strong>
+subtitle: <font color = "#828282">Assistant Professor, McCombs School of Business<br>The University of Texas at Austin</font>
 
 profile:
   align: right
