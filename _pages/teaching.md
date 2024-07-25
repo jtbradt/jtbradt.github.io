@@ -3,8 +3,8 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description:
-nav: false
-nav_order: 3
+nav: true
+nav_order: 2
 ---
 
 <strong>Economics of Climate Change and Environmental Policy</strong> ([Spring 2021](https://jacobbradt.com/assets/pdf/teaching/econ1661/harvard_econ1661_syllabus_21.pdf), [Spring 2022](https://jacobbradt.com/assets/pdf/teaching/econ1661/harvard_econ1661_syllabus_22.pdf))

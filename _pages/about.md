@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor<br>McCombs School of Business<br>The University of Texas at Austin
+subtitle: <strong><<font color = "#828282">Assistant Professor<br>McCombs School of Business<br>The University of Texas at Austin</font></strong>
 
 profile:
   align: right
@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 I am an Assistant Professor of Business, Government and Society and (by courtesy) of Economics at The University of Texas at Austin.  My research applies insights and methods from industrial organization and public economics to the study of environmental, energy, and climate policy. 
 
 <strong><font size = "5">Selected working papers</font></strong>
-<p style="margin-bottom:0"> A Policy by Any Other Name: Unconventional Industrial Policy in the US Residential Solar Industry <strong>(JMP)</strong></p>
+<p style="margin-bottom:0"> A Policy by Any Other Name: Unconventional Industrial Policy in the US Residential Solar Industry</p>
 <div class="buttonbar">[ <button class="button" onclick="button(&quot;abs1&quot;)">abstract</button> | <a href="/assets/pdf/papers/Bradt_JMP.pdf" target="_blank">paper</a> ]</div>
 <div class="popup" id="abs1" style="display: none;">Consumer subsidies are a common policy tool for supporting the adoption of clean energy technologies. Policymakers often justify these programs as a means of stimulating infant industries, arguing that greater demand increases industry learning-by-doing, which in turn reduces costs for potential entrants. This requires learning spillovers between firms that make experience-based cost reductions a public good. However, spillovers can reduce firms' incentives to expand output and lower costs. To evaluate this tradeoff, I estimate a dynamic structural model of the market for solar panel installations in California that endogenizes firms’ entry and exit decisions and allows for learning-by-doing with knowledge spillovers. I find that a 1<span>&#37;</span> increase in a firm’s cumulative production leads to a 0.7<span>&#37;</span> reduction in installation-specific costs and that learning spills over across firms. Counterfactual analysis reveals that a state-level consumer subsidy program increased installer entry by 9<span>&#37;</span>, indicating that industry cost reductions outweigh the decrease in firms' incentives to reduce costs by expanding output. While consumer subsidies may be effective at increasing industry size, I find that standard industrial policies such as entry subsidies provide greater welfare gains.</div>
 
