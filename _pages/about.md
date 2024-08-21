@@ -6,7 +6,7 @@ subtitle: <font color = "#828282">Assistant Professor, McCombs School of Busines
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: UT-headshot.jpg
   address: >
 
 news: false  # includes a list of news items
