@@ -10,7 +10,9 @@ profile:
   address: >
     <p>CBA 5.232</p>
     <p>2110 Speedway</p>
-    <p>Austin, TC 78705</p>
+    <p>Austin, TX 78705</p>
+    <p> </p>
+    <p>Office hours: By appointment</p>
     
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
