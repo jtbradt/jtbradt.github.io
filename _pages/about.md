@@ -7,8 +7,11 @@ subtitle: <font color = "#828282">Assistant Professor, McCombs School of Busines
 profile:
   align: right
   image: UT-headshot.jpg
-  address: CBA 5.232 \n 2110 Speedway, Austin, TX 78705
-
+  address: >
+    <p>CBA 5.232</p>
+    <p>2110 Speedway</p>
+    <p>Austin, TC 78705</p>
+    
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
