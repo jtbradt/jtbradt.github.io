@@ -8,7 +8,7 @@ profile:
   align: right
   image: UT-headshot.jpg
   address: >
-    <p>CBA 5.232</p>
+    <p>CBA 5.252</p>
     <p>2110 Speedway</p>
     <p>Austin, TX 78705</p>
     <br>
