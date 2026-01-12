@@ -13,3 +13,60 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill"
 ;
+
+// Custom simplified styling
+.buttonbar {
+  margin-top: 5px;
+  margin-bottom: 15px;
+  font-size: 0.9rem;
+}
+
+.buttonbar button {
+  background: none;
+  border: none;
+  color: var(--global-theme-color);
+  cursor: pointer;
+  padding: 0;
+  text-decoration: underline;
+  font-size: 0.9rem;
+}
+
+.buttonbar button:hover {
+  opacity: 0.8;
+}
+
+.popup {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding: 10px 0;
+  line-height: 1.6;
+  text-align: justify;
+}
+
+// Simplified header styling
+.post-header {
+  margin-bottom: 2rem;
+}
+
+.post-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+// Cleaner section headers
+h3 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+// Better spacing for papers
+ol.bracket {
+  list-style-position: outside;
+  padding-left: 0;
+}
+
+ol.bracket li {
+  margin-bottom: 1.5rem;
+}
