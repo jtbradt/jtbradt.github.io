@@ -8,11 +8,11 @@ profile:
   align: right
   image: UT-headshot.jpg
   address: >
-    <p>CBA 5.252</p>
+    <p>CBA 5.250</p>
     <p>2110 Speedway</p>
     <p>Austin, TX 78705</p>
     <br>
-    <p><strong>Office hours:</strong> By appointment</p>
+    <p><strong>Office hours:</strong> <a href="https://outlook.office.com/bookwithme/user/447bf8b551b24678ae4db95d7bc2c624@mccombs.utexas.edu?anonymous&ismsaljsauthenabled&ep=plink" target="_blank">By appointment</a></p>
 
 news: false
 selected_papers: false
