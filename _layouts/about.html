@@ -21,8 +21,10 @@
     .sidebar {
       position: fixed;
       width: 300px;
-      padding: 40px 30px;
+      padding: 40px 30px 60px 30px;
       box-sizing: border-box;
+      overflow-y: auto;
+      max-height: 100vh;
     }
 
     .sidebar img {
@@ -45,10 +47,25 @@
       line-height: 1.5;
     }
 
+    .sidebar .subtitle p {
+      margin: 0;
+      line-height: 1.5;
+    }
+
     .sidebar .contact-info {
       font-size: 0.9rem;
       color: #666;
       margin-top: 15px;
+      line-height: 1.4;
+    }
+
+    .sidebar .contact-info p {
+      margin: 0;
+      line-height: 1.4;
+    }
+
+    .sidebar .contact-info br {
+      display: none;
     }
 
     .sidebar .contact-info a {
@@ -69,12 +86,20 @@
 
     .social {
       margin-top: 20px;
+      padding-bottom: 20px;
     }
 
     .social .contact-icons {
       display: flex;
       gap: 15px;
       flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .social .contact-icons a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
     }
 
     @media (max-width: 768px) {
