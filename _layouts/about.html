@@ -1,59 +1,148 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="{{ site.lang }}">
+<head>
+  {% include head.html %}
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      color: #333;
+      line-height: 1.6;
+    }
 
-<!-- about.html -->
-      <div class="post">
-        <header class="post-header">
-          <h1 class="post-title">
-           {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
-          </h1>
-          <p class="desc">{{ page.subtitle }}</p>
-        </header>
+    .wrapper {
+      display: flex;
+      max-width: 1200px;
+      margin: 0 auto;
+      min-height: 100vh;
+    }
 
-        <article>
-          {% if page.profile -%}
-          <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
-            {%- if page.profile.image %}
-              {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
-              {% include figure.html 
-              path=profile_image_path 
-              class="img-fluid z-dept-1 rounded"
-              alt=page.profile.image -%}
-            {% endif -%}
-            {%- if page.profile.address %}
-            <div class="address">
-              {{ page.profile.address }}
-            </div>
-            {%- endif %}
-          </div>
-          {%- endif %}
+    .sidebar {
+      position: fixed;
+      width: 300px;
+      padding: 40px 30px;
+      box-sizing: border-box;
+    }
 
-          <div class="clearfix">
-            {{ content }}
-          </div>
+    .sidebar img {
+      width: 200px;
+      border-radius: 4px;
+      margin-bottom: 20px;
+    }
 
-          {% if page.news -%}
-          <!-- News -->
-          {%- include news.html %}
-          {%- endif %}
-          {% if page.selected_papers -%}
-            <!-- Selected papers -->
-            {%- include selected_papers.html %}
-          {%- endif %}
-          {%- if page.social %}
-          <!-- Social -->
-          <div class="social">
-            <div class="contact-icons">
-            {% include social.html %}
-            </div>
+    .sidebar h1 {
+      font-size: 1.8rem;
+      font-weight: bold;
+      margin: 10px 0;
+      color: #333;
+    }
 
-            <div class="contact-note">
-              {{ site.contact_note }}
-            </div>
-            
-          </div>
-          {%- endif %}
-        </article>
+    .sidebar .subtitle {
+      font-size: 0.95rem;
+      color: #666;
+      margin-bottom: 10px;
+      line-height: 1.5;
+    }
 
-</div>
+    .sidebar .contact-info {
+      font-size: 0.9rem;
+      color: #666;
+      margin-top: 15px;
+    }
+
+    .sidebar .contact-info a {
+      color: var(--global-theme-color, #bf5700);
+      text-decoration: none;
+    }
+
+    .sidebar .contact-info a:hover {
+      text-decoration: underline;
+    }
+
+    .content {
+      margin-left: 350px;
+      padding: 40px 40px 40px 20px;
+      max-width: 800px;
+      box-sizing: border-box;
+    }
+
+    .social {
+      margin-top: 20px;
+    }
+
+    .social .contact-icons {
+      display: flex;
+      gap: 15px;
+      flex-wrap: wrap;
+    }
+
+    @media (max-width: 768px) {
+      .wrapper {
+        flex-direction: column;
+      }
+
+      .sidebar {
+        position: relative;
+        width: 100%;
+        padding: 30px 20px;
+      }
+
+      .content {
+        margin-left: 0;
+        padding: 20px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="wrapper">
+    <div class="sidebar">
+      {% if page.profile.image %}
+        {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
+        <img src="{{ profile_image_path | relative_url }}" alt="{{ site.first_name }} {{ site.last_name }}">
+      {% endif %}
+
+      <h1>
+        {% if site.title == "blank" -%}
+          <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}
+        {%- else -%}
+          {{ site.title }}
+        {%- endif %}
+      </h1>
+
+      <div class="subtitle">
+        {{ page.subtitle }}
+      </div>
+
+      <div class="contact-info">
+        <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+      </div>
+
+      {% if page.profile.address %}
+      <div class="contact-info">
+        {{ page.profile.address }}
+      </div>
+      {% endif %}
+
+      {% if page.social %}
+      <div class="social">
+        <div class="contact-icons">
+          {% include social.html %}
+        </div>
+      </div>
+      {% endif %}
+    </div>
+
+    <div class="content">
+      {{ content }}
+    </div>
+  </div>
+
+  <!-- JavaScripts -->
+  {% include scripts/jquery.html %}
+  {% include scripts/mathjax.html %}
+  {% include scripts/analytics.html %}
+</body>
+</html>

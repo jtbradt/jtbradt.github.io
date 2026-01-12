@@ -27,8 +27,9 @@ $max-content-width: {{ site.max_width }};
   color: var(--global-theme-color);
   cursor: pointer;
   padding: 0;
-  text-decoration: underline;
+  text-decoration: none;
   font-size: 0.9rem;
+  font-family: inherit;
 }
 
 .buttonbar button:hover {
@@ -43,30 +44,49 @@ $max-content-width: {{ site.max_width }};
   text-align: justify;
 }
 
-// Simplified header styling
-.post-header {
-  margin-bottom: 2rem;
-}
+// Content area styling for new layout
+.content {
+  p {
+    margin-bottom: 1rem;
+  }
 
-.post-title {
-  font-size: 2rem;
-  font-weight: bold;
-  margin-bottom: 0.5rem;
-}
+  h3 {
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+    font-size: 1.3rem;
+  }
 
-// Cleaner section headers
-h3 {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  font-weight: 600;
+  // First section should have less top margin
+  h3:first-child {
+    margin-top: 0;
+  }
 }
 
 // Better spacing for papers
 ol.bracket {
   list-style-position: outside;
   padding-left: 0;
+  counter-reset: list;
 }
 
 ol.bracket li {
   margin-bottom: 1.5rem;
+  list-style: none;
+  counter-increment: list;
+  position: relative;
+  padding-left: 2em;
+}
+
+ol.bracket li::before {
+  content: "[" counter(list) "]";
+  position: absolute;
+  left: 0;
+  font-weight: normal;
+}
+
+// Remove bold from reversed list
+ol[reversed].bracket {
+  display: flex;
+  flex-direction: column-reverse;
 }
