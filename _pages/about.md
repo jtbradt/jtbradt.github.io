@@ -71,7 +71,9 @@ I am an Assistant Professor of Business, Government and Society and (by courtesy
 <h3>Teaching</h3>
 
 <p style="margin-bottom:0"><strong>The University of Texas</strong> </p>
-<p style="margin-bottom:1.5rem">BGS/IB 372T: Global Net Zero Strategy, <em>2025-Present</em></p>
+<p style="margin-bottom:1.5rem">BGS/IB 372T: Global Net Zero Strategy (undergraduate), <em>2025-Present</em></p>
+<p style="margin-bottom:1.5rem">IB 395: Global Net Zero Strategy (MBA/graduate), <em>2025-Present</em></p>
+<p style="margin-bottom:1.5rem">GOV 312L: Issues and Policies in American Government, <em>2026-Present</em></p>
 
 <p style="margin-bottom:0"><strong>Harvard University</strong> </p>
 <p style="margin-bottom:0">ECON 1661: Economics of Climate Change and Environmental Policy, <em>Spring 2021, Spring 2022</em></p>
