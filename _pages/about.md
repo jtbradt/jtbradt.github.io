@@ -76,9 +76,9 @@ I am an Assistant Professor of Business, Government and Society and (by courtesy
 <p style="margin-bottom:1.5rem">GOV 312L: Issues and Policies in American Government, <em>2026-Present</em></p>
 
 <p style="margin-bottom:0"><strong>Harvard University</strong> </p>
-<p style="margin-bottom:0">ECON 1661: Economics of Climate Change and Environmental Policy, <em>Spring 2021, Spring 2022</em></p>
-<p style="margin-bottom:0">ECON 1420: American Economic Policy, <em>Fall 2020, Fall 2021</em></p>
-<p style="margin-bottom:0">Public Policy, Health Policy, and Business Administration PhD Math Camp Instructor, <em>Summer 2022</em> [Slides: <a href="/assets/pdf/teaching/math_camp/Day1_Constrained_Optimization.pdf" target="_blank">Constrained Optimization</a>; <a href="/assets/pdf/teaching/math_camp/Day2_Comparative_Statics_Linear_Algebra.pdf" target="_blank">Comparative Statics and Linear Algebra</a>; <a href="/assets/pdf/teaching/math_camp/Day3_Probability_and_Statistics.pdf" target="_blank">Probability and Statistics</a>]</p>
+<p style="margin-bottom:1.5rem">ECON 1661: Economics of Climate Change and Environmental Policy, <em>Spring 2021, Spring 2022</em></p>
+<p style="margin-bottom:1.5rem">ECON 1420: American Economic Policy, <em>Fall 2020, Fall 2021</em></p>
+<p style="margin-bottom:1.5rem">Public Policy, Health Policy, and Business Administration PhD Math Camp Instructor, <em>Summer 2022</em> [Slides: <a href="/assets/pdf/teaching/math_camp/Day1_Constrained_Optimization.pdf" target="_blank">Constrained Optimization</a>; <a href="/assets/pdf/teaching/math_camp/Day2_Comparative_Statics_Linear_Algebra.pdf" target="_blank">Comparative Statics and Linear Algebra</a>; <a href="/assets/pdf/teaching/math_camp/Day3_Probability_and_Statistics.pdf" target="_blank">Probability and Statistics</a>]</p>
 <p style="margin-bottom:0">HKS Exec Ed: Climate Change Policy, <em>Fall 2020, Spring 2021, Fall 2021</em></p>
 
 <script>
