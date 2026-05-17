@@ -36,6 +36,9 @@ I am an Assistant Professor of Business, Government and Society and (by courtesy
 <div class="buttonbar">[ <button class="button" onclick="button(&quot;abs3&quot;)">abstract</button> | <a href="/assets/pdf/papers/BradtPinter_SubsidiesAndComplementarities.pdf" target="_blank">paper</a>  | <a href="/assets/pdf/slides/bradt_pinter_iioc_2025.pdf" target="_blank">slides</a> ]</div>
 <div class="popup" id="abs3" style="display: none;">Policies often ignore interactions between related products. This is particularly true in the case of subsidies for low-emissions and energy-efficient technologies. We develop a theory of second-best policy for interacting low-emissions technologies where first-best Pigouvian taxation of high-emissions substitutes is infeasible. The second-best policy involves subsidies that are a function of cross-technology substitution patterns. Ignoring these interactions reduces welfare due to infra-marginal take-up and the second-best policy accounts for this by targeting the more price-responsive low-emissions technology. We find evidence of complementarities between solar photovoltaics and plug-in electric vehicles in California, suggesting that interactions between products are relevant to policymakers. </div>
 
+<p style="margin-bottom:0">Fraud, Evasion, and Enforcement in Decentralized Environmental Regulation (with Jackson Dorsey)</p>
+<div class="buttonbar">[ <a href="mailto:jacob.bradt@austin.utexas.edu?subject=Draft%20request:%20Fraud,%20Evasion,%20and%20Enforcement%20in%20Decentralized%20Environmental%20Regulation">email for draft</a> ]</div>
+
 <h3>Publications</h3>
 
 <p style="margin-bottom:0">Hotelling Meets Wright: Spatial Sorting and Measurement Error in Recreation Demand Models</p>
@@ -64,7 +67,6 @@ I am an Assistant Professor of Business, Government and Society and (by courtesy
 <div class="popup" id="abs8" style="display: none;">This paper compares the effects of two types of behaviorally informed policy – nudges and boosts – that are designed to increase consumer demand for insurance against low-probability, high-consequence events. Using previous findings in the behavioral sciences literature, this paper constructs and implements two nudges (an 'informational' and an 'affective' nudge) and a statistical numeracy boost and then elicits individual risk beliefs and demand for flood insurance using a contingent valuation survey of 331 participants recruited from an online labor pool. Using a two-limit Tobit model to estimate willingness to pay (WTP) for flood insurance, this paper finds that the affective and informational nudges result in increases in WTP for flood insurance of roughly <span>&#36;</span>21/month and <span>&#36;</span>11/month relative to the boost, respectively. Taken together, the findings of this paper suggest that nudges are the more effective behaviorally informed policy in this setting, particularly when the nudge design targets the affect and availability heuristics; however, additional research is necessary to establish sufficient conditions for this conclusion.</div>
 
 <h3>Work in progress</h3>
-<p style="margin-bottom:1.5rem">Fraud and Enforcement in Vehicle Emissions Inspections (with Jackson Dorsey)</p>
 <p style="margin-bottom:1.5rem">Vertical Contracting in Retail Gasoline (with Jackson Dorsey and Reid Taylor)</p>
 <p style="margin-bottom:1.5rem">Welfare Effects of Retail Pricing Behavior in Natural Disasters (with Jackson Dorsey)</p>
 <p style="margin-bottom:0">Clearing the Air: The Welfare Effects of the Clean Air Act's Regional Haze Rule</p>
