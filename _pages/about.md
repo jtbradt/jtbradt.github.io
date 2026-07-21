@@ -36,6 +36,10 @@ I am an Assistant Professor of Business, Government and Society and (by courtesy
 <div class="buttonbar">[ <button class="button" onclick="button(&quot;abs3&quot;)">abstract</button> | <a href="/assets/pdf/papers/BradtPinter_SubsidiesAndComplementarities.pdf" target="_blank">paper</a>  | <a href="/assets/pdf/slides/bradt_pinter_iioc_2025.pdf" target="_blank">slides</a> ]</div>
 <div class="popup" id="abs3" style="display: none;">Policies often ignore interactions between related products. This is particularly true in the case of subsidies for low-emissions and energy-efficient technologies. We develop a theory of second-best policy for interacting low-emissions technologies where first-best Pigouvian taxation of high-emissions substitutes is infeasible. The second-best policy involves subsidies that are a function of cross-technology substitution patterns. Ignoring these interactions reduces welfare due to infra-marginal take-up and the second-best policy accounts for this by targeting the more price-responsive low-emissions technology. We find evidence of complementarities between solar photovoltaics and plug-in electric vehicles in California, suggesting that interactions between products are relevant to policymakers. </div>
 
+<p style="margin-bottom:0">The Incidence of Fuel-Price Shocks and Tax Holidays: Evidence from the 2026 Oil Shock (with Reid B. Taylor)</p>
+<div class="buttonbar">[ <button class="button" onclick="button(&quot;abs9&quot;)">abstract</button> | <a href="/assets/pdf/papers/BradtTaylor_IranGas.pdf" target="_blank">paper</a> ]</div>
+<div class="popup" id="abs9" style="display: none;">We measure the distributional incidence of US motor-fuel tax holidays using transaction records from ~13,200 gasoline stations linked to neighborhood income. The 2026 Iran oil shock raised gasoline expenditure shares 2.9 times more in the lowest- than highest-income census tracts. Pre-shock exposure accounts for 89 percent of the gap while the residual heterogeneity widens rather than offsets it. State-level tax holiday lowered retail prices but offset the same fraction (28 percent) of the per-gallon burden across quintiles. A counterfactual federal holiday preserves this incidence. Per-gallon relief is burden-proportional as it attenuates the shock's level without correcting its regressive income gradient.</div>
+
 <p style="margin-bottom:0">Fraud, Evasion, and Enforcement in Decentralized Environmental Regulation (with Jackson Dorsey)</p>
 <div class="buttonbar">[ <a href="mailto:jacob.bradt@austin.utexas.edu?subject=Draft%20request:%20Fraud,%20Evasion,%20and%20Enforcement%20in%20Decentralized%20Environmental%20Regulation">email for draft</a> ]</div>
 
@@ -87,7 +91,7 @@ I am an Assistant Professor of Business, Government and Society and (by courtesy
 <script>
 function button(id) {
   var x = document.getElementById(id);
-  var ids = ["abs1", "abs2", "abs3", "abs4", "abs5", "abs6", "abs7", "abs8", "desc1", "desc2", "desc3"];
+  var ids = ["abs1", "abs2", "abs3", "abs4", "abs5", "abs6", "abs7", "abs8", "abs9", "desc1", "desc2", "desc3"];
   for(var i = 0; i < ids.length; i++) {
     var item = ids[i];
     if (item != id) {
